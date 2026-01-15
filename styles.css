@@ -47,7 +47,7 @@ nav {
 }
 
 .logo img {
-    height: 70px;
+    height: 150px;
     width: auto;
     object-fit: contain;
     max-width: 280px;
@@ -389,7 +389,7 @@ footer {
     }
     
     .logo img {
-        height: 50px;
+        height: 500px;
         max-width: 160px;
     }
     
